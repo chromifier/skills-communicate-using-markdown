@@ -9,3 +9,10 @@ Here, I am viewing the differences between headers and learning the basics of us
 # Adding images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of JS](https://miro.medium.com/v2/resize:fit:1200/1*yUNfohs9jA6GCDmyCYJTvA@2x.png)
+
+
+# Adding Code Blocks
+``` javascript
+const theWorld = "Hello, World!"
+console.log(theWorld);
+```
