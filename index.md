@@ -16,3 +16,14 @@ Here, I am viewing the differences between headers and learning the basics of us
 const theWorld = "Hello, World!"
 console.log(theWorld);
 ```
+
+
+# Adding Task Lists
+```
+- [X] Task 1
+- [X] Task 2
+- [ ] Task 3
+```
+- [X] Create GitHub Account
+- [X] Learn the Basics
+- [ ] Learn GitHub Markdown
